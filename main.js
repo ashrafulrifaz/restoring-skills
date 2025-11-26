@@ -1,11 +1,24 @@
-var btc = 89000;
-btc = 90000;
-btc = 85000;
-console.log( btc);
+let orangePrice = 22
+let applePrice = parseFloat("36.14")
 
-let eth = 3000;
-eth = 3200;
-console.log(eth)
+let totalPrice = orangePrice + applePrice
 
-const sol = 200;
-console.log(sol);
+// console.log(totalPrice)
+
+
+let first = 0.1
+let second = 0.2
+
+let sum = first + second
+
+// console.log(parseFloat(sum.toFixed(3)))
+
+let laptopPrice = 30000
+let discount = 2000
+let tax = 0.1
+
+laptopPrice -= discount
+
+// console.log(laptopPrice)
+
+
